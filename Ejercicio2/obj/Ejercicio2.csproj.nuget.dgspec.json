@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ejercicio1\\Semana5\\Semana5.csproj": {}
+    "C:\\Ejercicio1\\Ejercicio2\\Ejercicio2.csproj": {}
   },
   "projects": {
-    "C:\\Ejercicio1\\Semana5\\Semana5.csproj": {
+    "C:\\Ejercicio1\\Ejercicio2\\Ejercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ejercicio1\\Semana5\\Semana5.csproj",
-        "projectName": "Semana5",
-        "projectPath": "C:\\Ejercicio1\\Semana5\\Semana5.csproj",
+        "projectUniqueName": "C:\\Ejercicio1\\Ejercicio2\\Ejercicio2.csproj",
+        "projectName": "Ejercicio2",
+        "projectPath": "C:\\Ejercicio1\\Ejercicio2\\Ejercicio2.csproj",
         "packagesPath": "C:\\Users\\MARCE\\.nuget\\packages\\",
-        "outputPath": "C:\\Ejercicio1\\Semana5\\obj\\",
+        "outputPath": "C:\\Ejercicio1\\Ejercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MARCE\\AppData\\Roaming\\NuGet\\NuGet.Config"
